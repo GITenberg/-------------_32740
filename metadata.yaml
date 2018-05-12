@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36014
     wikipedia: http://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%9A%CF%81%CF%85%CF%83%CF%84%CE%AC%CE%BB%CE%BB%CE%B7%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32740#-------------
 gutenberg_issued: '2010-06-08'
 gutenberg_type: Text
 identifiers:
